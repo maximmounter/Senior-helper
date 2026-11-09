@@ -1,0 +1,14 @@
+{
+  "name": "senior-helper-server",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.5.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^29.0.1",
+    "typescript": "^5"
+  }
+}
